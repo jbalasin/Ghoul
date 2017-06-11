@@ -1,2 +1,2 @@
 # Ghoul
-Graph database written in julia-lang
+Lightweight Graph database written in Rust
