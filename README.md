@@ -1,2 +1,4 @@
 # Ghoul
-Lightweight Graph database written in Rust
+Light-weight Graph database written in Rust
+
+
